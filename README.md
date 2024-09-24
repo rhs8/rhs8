@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+
+Your profile README contains information such as your interests, skills, and background, and it can be a great way to introduce yourself to other people on GitHub and showcase your work.
 <!--
 **rhs8/rhs8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
