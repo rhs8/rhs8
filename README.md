@@ -3,6 +3,11 @@
 
 
 Your profile README contains information such as your interests, skills, and background, and it can be a great way to introduce yourself to other people on GitHub and showcase your work.
+
+Keep customizing and editing your profile README.
+
+Use the "Emoji cheat sheet" to add emojis.
+Use the "Markdown cheat sheet" to experiment with additional Markdown formatting.
 <!--
 **rhs8/rhs8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
